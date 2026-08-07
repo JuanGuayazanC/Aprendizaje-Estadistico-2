@@ -1,0 +1,36 @@
+[submodule "Talleres/Taller-1-Espacio-Muestral-Moneda-APE2"]
+	path = Talleres/Taller-1-Espacio-Muestral-Moneda-APE2
+	url = https://github.com/JuanGuayazanC/Taller-1-Espacio-Muestral-Moneda-APE2.git
+	branch = main
+[submodule "Talleres/Taller-2-Distribuciones-y-Probabilidad-APE2"]
+	path = Talleres/Taller-2-Distribuciones-y-Probabilidad-APE2
+	url = https://github.com/JuanGuayazanC/Taller-2-Distribuciones-y-Probabilidad-APE2.git
+	branch = main
+[submodule "Talleres/Taller-de-Repaso-Aproximacion-Normal-Binomial-APE2"]
+	path = Talleres/Taller-de-Repaso-Aproximacion-Normal-Binomial-APE2
+	url = https://github.com/JuanGuayazanC/Taller-de-Repaso-Aproximacion-Normal-Binomial-APE2.git
+	branch = main
+[submodule "Parciales/Parcial-Distribucion-Muestral-y-TCL-APE2"]
+	path = Parciales/Parcial-Distribucion-Muestral-y-TCL-APE2
+	url = https://github.com/JuanGuayazanC/Parcial-Distribucion-Muestral-y-TCL-APE2.git
+	branch = main
+[submodule "Parciales/Parcial-Intervalos-de-Confianza-Diamonds-APE2"]
+	path = Parciales/Parcial-Intervalos-de-Confianza-Diamonds-APE2
+	url = https://github.com/JuanGuayazanC/Parcial-Intervalos-de-Confianza-Diamonds-APE2.git
+	branch = main
+[submodule "Recursos/Distribuciones-Continuas-y-Probabilidad-Conjunta-APE2"]
+	path = Recursos/Distribuciones-Continuas-y-Probabilidad-Conjunta-APE2
+	url = https://github.com/JuanGuayazanC/Distribuciones-Continuas-y-Probabilidad-Conjunta-APE2.git
+	branch = main
+[submodule "Recursos/Inferencia-Estadistica-Intervalos-y-TCL-APE2"]
+	path = Recursos/Inferencia-Estadistica-Intervalos-y-TCL-APE2
+	url = https://github.com/JuanGuayazanC/Inferencia-Estadistica-Intervalos-y-TCL-APE2.git
+	branch = main
+[submodule "Recursos/Pruebas-de-Hipotesis-y-Regresion-Lineal-APE2"]
+	path = Recursos/Pruebas-de-Hipotesis-y-Regresion-Lineal-APE2
+	url = https://github.com/JuanGuayazanC/Pruebas-de-Hipotesis-y-Regresion-Lineal-APE2.git
+	branch = main
+[submodule "Proyectos/Percepcion-ciudadana-y-salud-mental-durante-la-cuarentena-por-COVID-19-en-Bogota-APE2"]
+	path = Proyectos/Percepcion-ciudadana-y-salud-mental-durante-la-cuarentena-por-COVID-19-en-Bogota-APE2
+	url = https://github.com/JuanGuayazanC/Percepcion-ciudadana-y-salud-mental-durante-la-cuarentena-por-COVID-19-en-Bogota-APE2.git
+	branch = main
